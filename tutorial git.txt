@@ -1,0 +1,19 @@
+disini saya akan berbagi kepada teman teman pub cara menggunakan git..
+semoga bermanfaat :)
+
+1. pertama teman teman harus membuat akun github terlebih dahulu di https://github.com/
+2. install aplikasi git pada link https://git-scm.com/downloads
+3. nah jika keduanya sudah beres lanjut ke langkah langkah berikutnya ok langsung saja ke tkp :)
+4. buat folder dengan nama sesuai teman teman inginkan 
+5. pada folder yang telah dibuat tadi klik kanan kemudian pilih git bash here, nanti akan muncul tampilan seperti cmd
+6. setelah itu login dengan username dan email yang telah teman teman buat pada akun github
+- $ git config --global user.name "Nama Anda Datang Ke Sini"
+- $ git config --global user.email "you@yourdomain.example.com"
+7.setelah itu kita jadikan folder tadi sebagai repository pada akun git kita dengan cara "git init"
+8.silahkan tambahkan file apa saja di dalam folder yang tadi
+9.setelah itu lakukan "git add ." untuk ditambahkan pada staging areanya git (catatan jika membuat file baru harus melakukan langkah ini !)
+10.jika ingin melihat status git lakukan "git status"
+11. setelah menambahkan file ke staging area, kita diwjibkan melakukan commit dengan cara "git commit -m 'pesan commit' "
+12. lakukan "git status" untuk melihat status git kita (git status bersifat opsional diperlukan untuk mengecek keadaan git kita)
+13. untuk tutorial lebih lengkap silahkan kunjungi https://git-scm.com/docs/gittutorial
+14. SEMOGA BERMANFAAT HEHEH
